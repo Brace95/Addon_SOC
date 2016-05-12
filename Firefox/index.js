@@ -30,7 +30,6 @@ var menuitem = menuitems.Menuitem({
 
 function complete(){
 
-	console.log("Clicked");
 	tabs.activeTab.attach({
 
 		contentScriptFile: [
