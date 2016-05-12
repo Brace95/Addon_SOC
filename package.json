@@ -1,0 +1,18 @@
+{
+  "title": "SOC Completer",
+  "name": "soc",
+  "version": "0.0.1",
+  "description": "An add-on for McDonalds Crew Trainers for completing SOC reports",
+  "main": "index.js",
+  "author": "Brandon Stenhouse",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "Brace Arts",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "menuitem": "0.0.5"
+  }
+}
