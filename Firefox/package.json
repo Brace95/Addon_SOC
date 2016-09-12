@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Brandon Stenhouse",
   "engines": {
-    "firefox": ">=38.0a1"
+    "firefox": ">=35.0"
   },
   "license": "Brace Arts",
   "keywords": [
